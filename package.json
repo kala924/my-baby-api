@@ -1,5 +1,8 @@
 {
   "name": "my-baby-api",
   "version": "1.0.0",
-  "description": "Baby Bot API"
+  "description": "Baby Bot API with MongoDB",
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  }
 }
